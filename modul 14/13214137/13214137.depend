@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1460686888 source:c:\users\ngakanputu\desktop\project pmc\modul 14\13214137\problem1.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"problem1lib.h"
+	"problem1lib.h"
+
+1460682915 c:\users\ngakanputu\desktop\project pmc\modul 14\13214137\problem1lib.h
+
+1460686654 source:c:\users\ngakanputu\desktop\project pmc\modul 14\13214137\problem1lib.c
+	<math.h>
+
